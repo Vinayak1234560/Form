@@ -3,8 +3,8 @@
 <head>
 <title>	Login </title>
 </head>
-<body bgcolor="#E6E6FA" style="margin-top: 125px">
-<form action="register.html">
+<body bgcolor="#d2ebe9" style="margin-top: 125px">
+<form action="register.php">
 <center>
 <table border="1" style="margin: 0px auto;">
 <tr> <td colspan="2" style="text-align: center; font-weight: bold; height:30px;">Login :</td>
