@@ -21,7 +21,7 @@
 	<td style="text-align: center"><input type="submit" value="Register" style="height: 30px; font-weight: bold;"></td>
 </tr>
 </table>
-</Center>
+</center>
 </form>
 </body>
 </html>
